@@ -1,6 +1,6 @@
 # Hi, I'm Manohar 👋
 
-**VP, Data Engineering** — two decades building software, data and AI. Founder with two exits, still hands-on with code, and playing with AI almost every day to build and ship.
+**VP, Data & Engineering @ Racanaa** · AI/ML (UT Austin, Outskill) · two decades across software, data & AI · founder, 2 exits
 
 🔗 **[manoharnegi.com](https://www.manoharnegi.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manoharnegi/)
 
